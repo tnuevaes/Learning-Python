@@ -1,7 +1,10 @@
 #intro
 #editing for git
 #editing in a different branch
-#here is a merge conflict :o
+
+#Changing to test merge conflicts
+
+
 age = 20
 price = 19.95
 first_name = 'Kevin'
