@@ -1,6 +1,7 @@
 #intro
 #editing for git
 #editing in a different branch
+#Changing to test merge conflicts
 
 age = 20
 price = 19.95
